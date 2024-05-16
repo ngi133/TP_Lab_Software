@@ -1,14 +1,32 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using _03_Dominio.Entidades;
+using _02_Aplicacion;
+using _02_Aplicacion.DTOs;
+using _04_PersistenciaDeDatos;
 
-Console.WriteLine("Hello, World!");
 
-Usuario eduardo = new Usuario(
+ClienteDTO eduardo = new ClienteDTO(
     Guid.NewGuid(),
     "Eduardo",
+    "Arizza",
     "edu@test.com",
     "123",
-    DateTime.Now 
+    DateTime.Now ,
+    "1234567890123"     //Cambiar despues a int
  );
+CrearCliente casoDeUsoCrearCliente = new CrearCliente(new ClienteRepositorioEnMemoria());
+casoDeUsoCrearCliente.Ejecutar(eduardo);
 
-Console.WriteLine("fin");
+
+ReservaDTO eduardoReserva = new ReservaDTO(
+    Guid.NewGuid(),
+    DateTime.Now,
+    "Activo"
+ );
+CrearReserva casoDeUsoCrearReserva = new CrearReserva(new ReservaRepositorioEnMemoria());
+casoDeUsoCrearReserva.Ejecutar(eduardoReserva);
+
+Console.WriteLine("Usted realizo una reserva el dia:"); 
+Console.WriteLine(eduardoReserva.FechaReserva());
+Console.WriteLine(eduardo.Nombre());
+Console.WriteLine(eduardo.Apellido());
+Console.WriteLine(">>>>>>>> MUCHAS GRACIAS <<<<<<<< ");

@@ -9,3 +9,4 @@ C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Do
 C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\refint\03-Dominio.dll
 C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.pdb
 C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\ref\03-Dominio.dll
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.sourcelink.json
