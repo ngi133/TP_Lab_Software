@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\valueobjects\\fechanacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\valueobjects\\fechanacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA039DFE-208A-4E38-82A3-F8663FE41BAA}|01-Presentacion\\01-Presentacion.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\01-presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA039DFE-208A-4E38-82A3-F8663FE41BAA}|01-Presentacion\\01-Presentacion.csproj|solutionrelative:01-presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\valueobjects\\fechanacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\valueobjects\\fechanacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\repositorios\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\repositorios\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\valueobjects\\fechareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\valueobjects\\fechareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2072C2EF-FD1B-4441-8C8A-1F4162DB1B6A}|04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\04-persistenciadedatos\\reservarepositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2072C2EF-FD1B-4441-8C8A-1F4162DB1B6A}|04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj|solutionrelative:04-persistenciadedatos\\reservarepositorioenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\repositorios\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\repositorios\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\tp_lab_software\\03-dominio\\valueobjects\\estadoreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,19 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FechaNacimiento.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\ValueObjects\\FechaNacimiento.cs",
               "RelativeDocumentMoniker": "03-Dominio\\ValueObjects\\FechaNacimiento.cs",
               "ToolTip": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\ValueObjects\\FechaNacimiento.cs",
               "RelativeToolTip": "03-Dominio\\ValueObjects\\FechaNacimiento.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBoAAAAQAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T18:25:17.812Z"
+              "WhenOpened": "2024-05-17T18:25:17.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\ValueObjects\\Email.cs",
               "RelativeDocumentMoniker": "03-Dominio\\ValueObjects\\Email.cs",
@@ -126,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ReservaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\Repositorios\\ReservaRepositorio.cs",
               "RelativeDocumentMoniker": "03-Dominio\\Repositorios\\ReservaRepositorio.cs",
@@ -134,11 +135,12 @@
               "RelativeToolTip": "03-Dominio\\Repositorios\\ReservaRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T21:31:32.205Z"
+              "WhenOpened": "2024-05-16T21:31:32.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReservaRepositorioEnMemoria.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\04-PersistenciaDeDatos\\ReservaRepositorioEnMemoria.cs",
               "RelativeDocumentMoniker": "04-PersistenciaDeDatos\\ReservaRepositorioEnMemoria.cs",
@@ -150,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FechaReserva.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\ValueObjects\\FechaReserva.cs",
               "RelativeDocumentMoniker": "03-Dominio\\ValueObjects\\FechaReserva.cs",
@@ -162,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\Entidades\\Reserva.cs",
               "RelativeDocumentMoniker": "03-Dominio\\Entidades\\Reserva.cs",
@@ -170,17 +172,18 @@
               "RelativeToolTip": "03-Dominio\\Entidades\\Reserva.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T21:19:55.297Z"
+              "WhenOpened": "2024-05-16T21:19:55.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\01-Presentacion\\Program.cs",
               "RelativeDocumentMoniker": "01-Presentacion\\Program.cs",
               "ToolTip": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\01-Presentacion\\Program.cs",
               "RelativeToolTip": "01-Presentacion\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABHAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T20:02:55.628Z",
               "EditorCaption": ""
@@ -211,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "03-Dominio\\Entidades\\Cliente.cs",
@@ -223,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CrearCliente.cs",
               "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\02-Aplicacion\\CrearCliente.cs",
               "RelativeDocumentMoniker": "02-Aplicacion\\CrearCliente.cs",

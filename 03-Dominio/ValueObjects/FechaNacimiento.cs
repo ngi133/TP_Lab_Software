@@ -30,7 +30,7 @@ public class FechaNacimiento
 
         static bool EsMayorDeEdad(DateTime valor)
         {
-            string fechaStr = valor.ToString("yyyyMMdd"); // Convierte a formato "yyyyMMdd"
+            string fechaStr = valor.ToString("ddMMyyyy"); // Convierte a formato "ddMMyyyy"
             DateTime fechaNacimiento;
             if (DateTime.TryParseExact(fechaStr, "ddMMyyyy", null, System.Globalization.DateTimeStyles.None, out fechaNacimiento))
             {

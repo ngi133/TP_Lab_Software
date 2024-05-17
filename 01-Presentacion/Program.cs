@@ -6,12 +6,12 @@ using _04_PersistenciaDeDatos;
 
 ClienteDTO eduardo = new ClienteDTO(
     Guid.NewGuid(),
-    "Eduardo",
+    "Ian",
     "Arizza",
     "edu@test.com",
     "123",
-     DateTime.Parse("7/11/2002 16:14:44"),  //Fecha valida Realiza Reserva
-     //DateTime.Parse("7/11/2008 16:14:44"),  Fecha Invalida Rompe todo
+     DateTime.Parse("07/11/2012 16:14:44"),  //Fecha valida Realiza Reserva
+     //DateTime.Parse("02/03/2012 16:14:44"),  //Fecha Invalida Rompe todo
      "1234567890123"     //Cambiar despues a int
  );
 CrearCliente casoDeUsoCrearCliente = new CrearCliente(new ClienteRepositorioEnMemoria());
