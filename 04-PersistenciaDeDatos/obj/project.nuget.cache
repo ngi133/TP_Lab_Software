@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "21eM5c7g/kPerGNCWt4OOryYmMuCi9QhReh8BEvVUkrZracRD4+GQ/mOaS9s/xFfrR5Hrx8wO2XUVomIq45e3Q==",
+  "dgSpecHash": "/AXZjogPbcd/fU04YWpPAw6RrIkatlKEuA9r6jDnzTj8cNCDcfJCyTsCjlxHQ7y+6+kK/f486ZbEv6lZEy7aqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj",
+  "projectFilePath": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

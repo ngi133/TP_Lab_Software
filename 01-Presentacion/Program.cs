@@ -10,8 +10,9 @@ ClienteDTO eduardo = new ClienteDTO(
     "Arizza",
     "edu@test.com",
     "123",
-    DateTime.Now ,
-    "1234567890123"     //Cambiar despues a int
+     DateTime.Parse("7/11/2002 16:14:44"),  //Fecha valida Realiza Reserva
+     //DateTime.Parse("7/11/2008 16:14:44"),  Fecha Invalida Rompe todo
+     "1234567890123"     //Cambiar despues a int
  );
 CrearCliente casoDeUsoCrearCliente = new CrearCliente(new ClienteRepositorioEnMemoria());
 casoDeUsoCrearCliente.Ejecutar(eduardo);

@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\02-Aplicacion\\02-Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\02-Aplicacion\\02-Aplicacion.csproj",
       "projectName": "02-Aplicacion",
-      "projectPath": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\02-Aplicacion\\02-Aplicacion.csproj",
+      "projectPath": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\02-Aplicacion\\02-Aplicacion.csproj",
       "packagesPath": "C:\\Users\\eduyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\02-Aplicacion\\obj\\",
+      "outputPath": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\02-Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,11 +77,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\03-Dominio\\03-Dominio.csproj": {
-              "projectPath": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\03-Dominio\\03-Dominio.csproj"
+            "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\03-Dominio.csproj": {
+              "projectPath": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\03-Dominio\\03-Dominio.csproj"
             },
-            "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj": {
-              "projectPath": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj"
+            "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj": {
+              "projectPath": "C:\\Users\\eduyk\\source\\repos\\TP_Lab_Software\\04-PersistenciaDeDatos\\04-PersistenciaDatos.csproj"
             }
           }
         }
